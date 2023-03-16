@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper_(Kotlin).Topics-Data_types-Edit_it.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Data_types-Equivalent.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Data_types-Select_correct_statements_about_types.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Data_types-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Data_types-What_is_type_inference.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_Kotlin-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Absolute_value.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Arguments.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Invoking_functions.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Square_root.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-The_magic_of_println.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Application.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Multiple_statements.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Name_of_an_entry_point.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Your_name.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-Correct_the_code.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-First,_second,_third.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-Print_a_triangle.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Correct_statements_about_variables_in_Kotlin.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Declarations.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Labyrinth_in_variables.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-The_name_of_a_variable.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Theory.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Very_Big_Number.main" target="15" />
+      <module name="Zookeeper_(Kotlin).util.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-classes-kotlin.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-reports-tests.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-test-results.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-tmp.main" target="15" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
